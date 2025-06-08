@@ -1,1 +1,1 @@
-# AI-Art-Detector---APS360
+# AI-Art-Detector-APS360
